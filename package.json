@@ -21,7 +21,7 @@
     "@sentry/node": "^5.15.4",
     "crypto-js": "^4.0.0",
     "discord.js": "^12.1.1",
-    "dotenv": "^8.2.0",
+    "dotenv": "^8.6.0",
     "node-fetch": "^2.6.0",
     "sourcecred": "^0.7.4"
   },
